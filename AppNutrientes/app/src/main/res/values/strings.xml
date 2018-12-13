@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppNutrientes</string>
+    <string name="informar_dados">INFORMAR DADOS</string>
+    <string name="textview_01">TextView</string>
+    <string name="mensagem_informar_dados">INFORMAR DADOS</string>
+</resources>
